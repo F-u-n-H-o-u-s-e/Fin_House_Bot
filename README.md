@@ -1,1 +1,1 @@
-![](C:\Users\Максим\Desktop\3 КУРС\ПЗ на Node.JS\Fin_House_Bot\Plan.png)
+![](C:\Users\Максим\Desktop\3 КУРС\ПЗ на Node.JS\Fin_House_Bot\Plan.jpg)
